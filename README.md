@@ -52,7 +52,7 @@ A Telegram bot that fetches daily attendance, timetable, and cafeteria menu info
 To change when the report runs, edit the `run_hour` and `run_minute` variables in the `should_run_today()` function in `Cafeteria_Bot.py`:
 
 ```python
-run_hour = 8   # 8 AM IST
+run_hour = 1   # 1 AM IST
 run_minute = 0
 ```
 
@@ -87,4 +87,5 @@ run_minute = 0
 ## License
 
 MIT
+
 
